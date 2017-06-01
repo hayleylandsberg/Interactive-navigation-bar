@@ -1,0 +1,9 @@
+a:hover {
+	color: red;
+	background-color: goldenrod;
+}
+
+li a:active {
+
+    padding: 0 5px;
+}
